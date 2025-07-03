@@ -1,16 +1,43 @@
-### Hi there 👋
+# 👋 Hi, I'm Marek
 
-<!--
-**mazarzycki/mazarzycki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python DevOps Engineer with a unique blend of technical depth, business insight, and international experience. Currently working at a major European bank, I'm pivoting toward cloud security with a focus on **Microsoft Azure**, **Defensive Security**, and **Threat Detection Engineering**.
 
-Here are some ideas to get you started:
+Before transitioning into tech, I spent over a decade in international business development, including roles at the Polish Embassy in Brazil and Refinitiv (World-Check). This rare combination of **KYC/AML compliance knowledge**, **software engineering**, and **cloud security expertise** allows me to approach problems holistically — bridging the gap between risk, infrastructure, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🎯 Preparing for **SC-200** and **AZ-500** certifications  
+- 🧠 Building hands-on **Microsoft Sentinel** labs and threat detection projects  
+- 📘 Writing a series of blog posts and walkthroughs on cloud security and XDR  
+- 🛠️ Strengthening my expertise in **Linux**, **Bash**, **KQL**, and **Microsoft Defender** tools  
+- 💼 Developing a robust career path toward **Azure Security Architect**
+
+## 🧩 My Tech Stack
+
+- **Languages**: Python, Bash, YAML, KQL, SQL
+- **Cloud & Infra**: Azure, Linux, Docker  
+- **Dev Tools**: Git, Markdown, JupyterLab, VS Code  
+- **Languages spoken**: Polish, English, Portuguese, Spanish, German, Russian, Dutch (learning), French (learning)
+
+---
+
+## 🧪 Cybersecurity Portfolio
+
+I'm documenting my journey into cloud security through real-world, lab-based projects. My flagship project:
+
+> 🛡️ **[End-to-End Cloud Threat Detection and Response in Microsoft Sentinel](https://github.com/mazarzycki/azure-security-portfolio)**  
+> Includes log onboarding, detection rules in KQL, automated response playbooks, investigation workflows, and clear documentation.
+
+👉 Check out the full repo here: [github.com/marekzarzycki/cybersecurity-journey](https://github.com/mazarzycki/azure-security-portfolio)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/marek-zarzycki-414ab62/)  
+- ✍️ [Blog on dev.to](https://dev.to/marcoz)  
+- 🌍 Building: [NubeCode.eu](https://nubecode.eu) — Tech for Business Impact  
+
+---
+
+> _"Build a career you’re proud of, not just a resume. Learn in public. Execute relentlessly."_  
