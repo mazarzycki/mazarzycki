@@ -2,7 +2,7 @@
 
 I'm a Python DevOps Engineer with a unique blend of technical depth, business insight, and international experience. Currently working at a major European bank, I'm pivoting toward cloud security with a focus on **Microsoft Azure**, **Defensive Security**, and **Threat Detection Engineering**.
 
-Before transitioning into tech, I spent over a decade in international business development, including roles at the Polish Embassy in Brazil and Refinitiv (World-Check). This rare combination of **KYC/AML compliance knowledge**, **software engineering**, and **cloud security expertise** allows me to approach problems holistically — bridging the gap between risk, infrastructure, and automation.
+Before transitioning into tech, I spent over a decade in international business development, including roles at the Polish Embassy in Brazil and Refinitiv (World-Check). This rare combination of **KYC/AML compliance knowledge**, **software engineering**, and **cloud security expertise** allows me to approach problems with a broad perspective — bridging the gap between risk, infrastructure, and automation.
 
 ## 🚀 What I'm Working On
 
