@@ -23,7 +23,9 @@ Before transitioning into tech, I spent over a decade in international business 
 
 ## 🧪 Cybersecurity Portfolio
 
-I'm documenting my journey into cloud security through real-world, lab-based projects. My flagship project for SC-200:
+I'm documenting my journey into cloud security through real-world, lab-based projects.    
+   
+My flagship project for SC-200:
 
 > 🛡️ **[End-to-End Cloud Threat Detection and Response in Microsoft Sentinel]**  
 > Includes log onboarding, detection rules in KQL, automated response playbooks, investigation workflows, and clear documentation.
