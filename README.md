@@ -31,21 +31,28 @@ My background includes over a decade in international business development (Poli
 
 I’m building a portfolio of practical, real-world projects focused on backend engineering, APIs, and cloud fundamentals.
 
-### 📦 Upcoming Portfolio Project  
-(inspired by Clean Architecture & microservice patterns)
+### Current Project: Event & Log Collector
 
-A modular Python-based system, organized into well-defined layers and services, potentially with an API or lightweight service communication layer in the middle.  
+A modular Flask-based backend following clean architecture principles
 
-This project will demonstrate:
+I’m currently building a lightweight event and log collection system designed with a clean, layered structure.
+The focus is on creating a maintainable, testable backend and showcasing solid engineering fundamentals rather than building a production SIEM.
 
-- proper separation of concerns  
-- scalable project structure  
-- API handling  
-- testing approach  
-- CI/CD and deployment to Azure  
-- practical security considerations  
+This project highlights:
 
-More details coming as the project evolves.
+- clear separation of responsibilities across domains, services, and infrastructure
+
+- a scalable, modular project layout inspired by clean architecture
+
+- a well-structured Flask API for event ingestion, querying, and simple analytics
+
+- a thoughtful testing approach (services + API)
+
+- Docker-based deployment, with future integration points for Azure
+
+- essential security practices such as configuration management and API key handling
+
+More features and documentation will be added as the project evolves.
 
 ---
 
