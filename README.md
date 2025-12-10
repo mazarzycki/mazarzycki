@@ -20,11 +20,11 @@ My background includes over a decade in international business development (Poli
 
 ## 🧩 My Tech Stack
 
-- **Languages**: Python, Bash, YAML, SQL  
-- **Infrastructure & Cloud**: Azure, Linux, Docker  
+- **Languages**: Python, JavaScript, Bash, PowerShell, YAML, SQL  
+- **Infrastructure & Cloud**: Azure, Linux, Docker, Bicep  
+- **Web**: HTML, CSS, Bootstrap  
 - **Dev Tools**: Git, Markdown, JupyterLab, VS Code  
-- **Languages spoken**: Polish, English, Portuguese, Spanish, German, Russian, Dutch (learning), French (learning)
-
+- **Languages spoken**: Polish (native), English (fluent), Portuguese (fluent), Spanish (advanced), German (advanced), Russian (fluent), Dutch (basic)
 ---
 
 ## 🔧 Current Projects
@@ -63,5 +63,3 @@ More features and documentation will be added as the project evolves.
 - 🌍 [NubeCode.eu](https://nubecode.eu)
 
 ---
-
-> _"Build the skills. Share the journey. Keep moving forward."_
