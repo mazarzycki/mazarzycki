@@ -1,65 +1,109 @@
+
 # 👋 Hi, I'm Marek
 
-I'm a **Python DevOps Engineer** with a strong focus on backend development, automation, and clean system design.  
-Right now, my main interests revolve around **Python**, **API development**, and **Azure infrastructure**, supported by solid security and reliability principles.
+I build software with a focus on **Python backend systems, cloud infrastructure, and practical security**.
 
-My background includes over a decade in international business development (Polish Embassy in Brazil, Refinitiv/World-Check), which gives me a rare mix of **engineering**, **business**, and **risk/compliance** intuition. I enjoy building solutions that make sense technically and operationally.
+My work sits at the intersection of **engineering, systems thinking, and real-world operational environments**. I enjoy designing software that is reliable, maintainable, and capable of solving practical problems — whether that means building APIs, automating infrastructure, or developing small independent applications.
 
----
+Before transitioning fully into engineering, I spent more than a decade working in **international business development and financial risk intelligence**, including roles at the **Polish Embassy in Brazil** and **Refinitiv / World‑Check**.  
+That experience shaped how I approach technology today: systems should not only be elegant technically, but also **useful, secure, and aligned with real-world constraints**.
 
-## 🚀 What I'm Working On
-
-- 🐍 Advancing my Python backend skills with a focus on clean architecture and maintainability  
-- 🔌 Exploring API-driven system design and microservice communication patterns  
-- ☁️ Strengthening my Azure fundamentals (compute, storage, networking, containerization)  
-- 🛡️ Applying cloud and application security best practices in a practical way  
-- 🧰 Growing my expertise in Linux, Bash, Docker, and DevOps tooling  
-- 📝 Sharing what I learn through blog posts and real-world projects  
+Today I focus on building and experimenting with **backend systems, APIs, cloud infrastructure, and independent developer tools**.
 
 ---
 
-## 🧩 My Tech Stack
+# 🚀 What I'm Currently Focused On
 
-- **Languages**: Python, JavaScript, Bash, PowerShell, YAML, SQL  
-- **Infrastructure & Cloud**: Azure, Linux, Docker, Bicep  
-- **Web**: HTML, CSS, Bootstrap  
-- **Dev Tools**: Git, Markdown, JupyterLab, VS Code  
-- **Languages spoken**: Polish (native), English (fluent), Portuguese (fluent), Spanish (advanced), German (advanced), Russian (fluent), Dutch (basic)
----
-
-## 🔧 Current Projects
-
-I’m building a portfolio of practical, real-world projects focused on backend engineering, APIs, and cloud fundamentals.
-
-### Current Project: Event & Log Collector
-
-A modular Flask-based backend following clean architecture principles
-
-I’m currently building a lightweight event and log collection system designed with a clean, layered structure.
-The focus is on creating a maintainable, testable backend and showcasing solid engineering fundamentals rather than building a production SIEM.
-
-This project highlights:
-
-- clear separation of responsibilities across domains, services, and infrastructure
-
-- a scalable, modular project layout inspired by clean architecture
-
-- a well-structured Flask API for event ingestion, querying, and simple analytics
-
-- a thoughtful testing approach (services + API)
-
-- Docker-based deployment, with future integration points for Azure
-
-- essential security practices such as configuration management and API key handling
-
-More features and documentation will be added as the project evolves.
+- 🐍 Building **robust Python backend systems**
+- 🔌 Designing **API‑driven architectures**
+- ☁️ Expanding my work with **Azure cloud infrastructure**
+- 🛡️ Applying **security‑first engineering practices**
+- 🐧 Deepening my knowledge of **Linux systems and automation**
+- 🧰 Working with **Docker, Bash, and DevOps tooling**
+- 🧠 Exploring ideas for **independent software products**
 
 ---
 
-## 📫 Connect with Me
+# 🧩 Tech Stack
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/marek-zarzycki-414ab62/)  
-- ✍️ [Blog on dev.to](https://dev.to/marcoz)  
-- 🌍 [NubeCode.eu](https://nubecode.eu)
+### Languages
+Python • JavaScript • Bash • PowerShell • YAML • SQL
+
+### Infrastructure & Cloud
+Azure • Linux • Docker • Bicep
+
+### Web
+HTML • CSS • Bootstrap
+
+### Development Tools
+Git • VS Code • Markdown • JupyterLab
+
+### Languages Spoken
+1. Polish (native)  
+2. English (fluent)  
+3. Portuguese (fluent)  
+4. Spanish (advanced)  
+5. German (advanced)  
+6. Russian (fluent)  
+7. Dutch (basic)
 
 ---
+
+# 🔧 Things I'm Building
+
+I enjoy building **small, focused systems** that explore real engineering problems.
+
+Many of my projects are intentionally designed as **independent tools, backend services, or infrastructure experiments**. The goal is to continuously improve my engineering capabilities while exploring ideas that could eventually evolve into useful software products.
+
+Typical themes in my work include:
+
+- **Python backend services**
+- **API design and integration**
+- **developer tools and automation utilities**
+- **containerized applications**
+- **cloud-native experiments**
+- **security‑aware system design**
+
+Rather than building one large monolithic project, I prefer developing **multiple evolving systems**, each exploring a specific concept:
+
+- clean service architecture
+- reliable API design
+- maintainable Python backend structures
+- infrastructure automation
+- containerized deployments
+- secure configuration and secret handling
+
+Many of these projects are documented through technical write‑ups and development notes shared on **dev.to** and GitHub.
+
+---
+
+# 🌐 Apps Available Online
+
+Below are some of the projects I have built and deployed publicly.
+
+### CifraGuard
+https://cifraguard.com/
+
+A privacy-focused secure file transfer service designed to allow users to send sensitive files safely.  
+The project explores **secure file sharing, encryption-aware design, and privacy-first architecture**, with a focus on simple usability and strong security fundamentals.
+
+---
+
+### City Weather Lab
+http://cityweatherlab.com/
+
+A lightweight weather analytics tool that monitors environmental conditions across selected cities.  
+The project focuses on **API integration, backend data collection, and simple data visualization**, while exploring how small cloud-hosted services can provide useful insights with minimal infrastructure.
+
+---
+
+# 📫 Connect with Me
+
+🌐 LinkedIn  
+https://www.linkedin.com/in/marek-zarzycki-414ab62/
+
+✍️ Blog  
+https://dev.to/marcoz
+
+🌍 Website  
+https://nubecode.eu
