@@ -81,6 +81,12 @@ Many of these projects are documented through technical write‑ups and developm
 
 Below are some of the projects I have built and deployed publicly.
 
+### FootyPin
+https://footypin.com/
+
+A map-based football stadium discovery and navigation tool that helps users locate stadiums nearby and plan football trips more easily.  
+The project explores **geospatial data management, location-aware interfaces, and incremental platform growth**, with a long-term goal of building deep coverage across football league tiers and countries.
+
 ### CifraGuard
 https://cifraguard.com/
 
