@@ -8,7 +8,7 @@ Before moving into engineering, I spent more than a decade in international busi
  
 ## 🔨 Current project
  
-### [secure-fastapi-lab](https://github.com/YOUR-USERNAME/secure-fastapi-lab)
+### [secure-fastapi-lab](https://github.com/mazarzycki/secure-fastapi-lab)
  
 A FastAPI + PostgreSQL service, containerized and hardened, with a security pipeline built into CI (pytest, Hadolint, Gitleaks, Semgrep, Trivy).
  
