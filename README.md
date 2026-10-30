@@ -44,7 +44,7 @@ A privacy-focused service for sending sensitive files securely. It explores encr
 ### [FootyPin](https://footypin.com/)
 A map-based tool for finding football stadiums nearby and planning football trips. It explores geospatial data, location-aware interfaces and incremental platform growth, with the goal of deep coverage across leagues and countries.
 
-### [City Weather Lab](http://cityweatherlab.com/)
+### [City Weather Lab](https://cityweatherlab.com/)
 A lightweight weather analytics tool that tracks conditions across selected cities. It explores API integration, backend data collection and simple visualization on minimal cloud infrastructure.
 
 ---
